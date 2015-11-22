@@ -1,0 +1,5 @@
+Aporto el código fuente y el script de creación y carga de base de datos.
+
+la aplicación, aunque corre en el servidor, no lista en el formulario los datos (no he conseguido hacerlo).
+
+saludos,
